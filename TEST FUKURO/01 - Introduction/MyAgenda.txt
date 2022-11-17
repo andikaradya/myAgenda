@@ -1,0 +1,27 @@
+Senin
+Fisika Dasar
+Kalkulus
+
+Selasa
+Kalkulus
+Fisika Dasar
+Bahasa Inggris
+
+Rabu
+Pemrograman
+Kimia Dasar
+Praktikum Fisika Dasar
+
+Kamis
+Untai Listrik
+
+Jumat
+Pancasila
+Agama Katholik
+Praktikum Pemrograman
+
+Sabtu
+
+Minggu
+Istirahat
+
